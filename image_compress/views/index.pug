@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  canvas 
+  form(id='form' method='POST', enctype='multipart/form-data')
+    | 文件名：
+    input(id='file' type='file', name='logo' accept='image/*' onchange='loadFile(event)')
+  script(src='/javascripts/index.js', type='text/javascript')
