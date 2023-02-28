@@ -1,6 +1,5 @@
 {
   "private": true,
-  "author": "za-yanqing <yanqing@zhongan.io>",
   "scripts": {
     "dev": "max dev",
     "build": "max build",

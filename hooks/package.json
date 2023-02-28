@@ -1,6 +1,5 @@
 {
   "private": true,
-  "author":"za-yanqing <yanqing@zhongan.io>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",

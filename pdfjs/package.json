@@ -1,6 +1,5 @@
 {
   "private": true,
-  "author":"qing.yan <qing.yan@zatech.com>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
