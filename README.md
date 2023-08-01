@@ -4,3 +4,4 @@
 + image_compress - Image（jpg/png/bmp）压缩
 + pdfjs - PDFJS预览
 + antd_transfer_sort - Antd穿梭框附带排序功能
++ x6-demo - AntV X6 流程图应用上的核心代码
