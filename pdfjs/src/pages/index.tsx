@@ -1,9 +1,11 @@
-// import yayJpg from '../assets/yay.jpg';
+import PdfPreview from '../component/pdfPreview';
 
-export default function HomePage() {
+const Index = () => {
   return (
-    <div>
-      <h1>Canvas</h1>
+    <div style={{ width: '100vw', height: '100vh' }}>
+      <PdfPreview />
     </div>
   );
-}
+};
+
+export default Index;
